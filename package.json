@@ -1,0 +1,21 @@
+{
+  "name": "postcss-masucss",
+  "version": "0.0.1",
+  "description": "PostCSS plugin for writing css like Masucci",
+  "main": "index.js",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "masucci"
+  ],
+  "author": "Giordano Ricci <grdnricci@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elfo404/masucss.git"
+  },
+  "peerDependencies": {
+    "postcss": "^7.0.6"
+  }
+}
